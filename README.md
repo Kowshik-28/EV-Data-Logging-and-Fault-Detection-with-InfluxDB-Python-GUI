@@ -54,7 +54,7 @@ python INFLUX_DATA_TAKE.py
 ```
 
 ## 📹 Video Demo
-<a href="https://www.youtube.com/"> Watch how the data is pushed, retrieved, and analyzed.</a>
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7358730992297168896/"> Watch how the data is pushed, retrieved, and analyzed.</a>
 
 ## 🧑‍💻 Author
 **Kowshik Kancharla** — Connect on <a href="https://www.linkedin.com/in/kowshik-kancharla-596794204/">[LinkedIn_ kowshik-kancharla]</a>
